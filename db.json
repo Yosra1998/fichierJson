@@ -1,0 +1,23 @@
+[
+	{
+
+		"title":"Qu'est ce que la COVID-19 ?",
+		"body":"La COVID-19 est la maladie causée par un nouveau coronavirus, le SARS-CoV-2. L'OMS a appris l’existence de ce nouveau virus le 31 décembre 2019 lorsqu ' un foyer epidemique de cas de « pneumonie virale » a ete notifie à Wuhan, en Republique populaire de Chine."
+},
+
+
+
+
+
+
+	{
+		"title": "Symptomes",
+		 "body":"Les symptomes les plus courants sont les suivants : Fievre ,Toux seche ,Fatigue,Perte du gout et de l odorat,Congestion nasale,Conjonctivite (yeux rouges),Mal de gorge,Maux de tete,Douleurs musculaires ou articulaires,Differents types d’eruption cutanee,Nausees ou vomissements,Diarrhee,Frissons ou vertiges."
+         
+},
+
+{ 
+	"title":"Les antibiotiques sont-ils efficaces pour prevenir et traiter l infection par le nouveau coronavirus ?",
+	"body":"Les antibiotiques n agissent pas contre les virus, mais seulement contre les infections bacteriennes. La COVID-19 etant causee par un virus, les antibiotiques sont inefficaces. Les antibiotiques ne doivent pas être utilises comme moyen de prevention ou de traitement de la COVID-19."
+}
+]
