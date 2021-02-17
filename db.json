@@ -1,9 +1,18 @@
 [
-{
+	 { 
+	
 		
-		"title":"Qu'est ce que la COVID-19 ?",
-		"body":"La COVID-19 est la maladie causée par un nouveau coronavirus, le SARS-CoV-2. L'OMS a appris l’existence de ce nouveau virus le 31 décembre 2019 lorsqu ' un foyer epidemique de cas de « pneumonie virale » a ete notifie à Wuhan, en Republique populaire de Chine."
-},
+
+			"title":"comment on peut attraper la maladie ?",
+		"body1":"1)Cette maladie se transmet principalement par les goulettes respiratoires et le contact étroit avec les personnes malades.",
+		"body2":"2)Quand vous éternuez ou toussez,vous projetez des goulettes respiratoires du votre nez et bouche",
+		"body3":"3)Ces goulettes peuvent contenir l'infection.Ceci est comment les virus se transmettent",
+		"body4":"4)Generalement, vous devez etre proche de la personne(moins que 2 mètre) pour que le virus se transmet de cette manière",
+		"body5":"5)Il y'a aussi la possibilitée de la transmission aérosole , si vous etes exposé à une haute concentration pour une langue durée du temps et dans un environnement clos",
+		"body6":"6)L'OMS a déclaré que le risque de la transmission par une personne sans symptomes et (très faible) et le risqué de transmission fécale est (faible) ",
+		"body7":""
+
+	},
 
 
 
@@ -11,15 +20,40 @@
 
 
 	{
-		"title": "Symptomes",
-		 "body":"Les symptomes les plus courants sont les suivants : Fievre ,Toux seche ,Fatigue,Perte du gout et de l odorat,Congestion nasale,Conjonctivite (yeux rouges),Mal de gorge,Maux de tete,Douleurs musculaires ou articulaires,Differents types d’eruption cutanee,Nausees ou vomissements,Diarrhee,Frissons ou vertiges."
-         
+		"title": "Comment je peux me protéger ?",
+		"body1":"1)Ne voyagez pas dans les régions affectés",
+		"body2":"2)Quand vous toussez ou éternuez, faites-le dans votre coude ou dans votre mouchoir. Evitez d'utiliser vos mains",
+		"body3":"3)Lavez-vous les mains fréquemment et soigneusement avec l'eau et le savon",
+		"body4":"4)Evitez les personnes évidemment malades et les lieux avec une haute concentration de personnes",
+		"body5":"",
+		"body6":"",
+		"body7":""
 },
 
 { 
-	"title":"Les antibiotiques sont-ils efficaces pour prevenir et traiter l infection par le nouveau coronavirus ?",
-	"body":"Les antibiotiques n agissent pas contre les virus, mais seulement contre les infections bacteriennes. La COVID-19 etant causee par un virus, les antibiotiques sont inefficaces. Les antibiotiques ne doivent pas être utilises comme moyen de prevention ou de traitement de la COVID-19."
-
+		"title":"Les antibiotiques sont-ils efficaces pour prevenir et traiter l infection par le nouveau coronavirus ?",
+		"body1":"Les antibiotiques n agissent pas contre les virus, mais seulement contre les infections bacteriennes. La COVID-19 etant causee par un virus, les antibiotiques sont inefficaces. Les antibiotiques ne doivent pas être utilises comme moyen de prevention ou de traitement de la COVID-19.",
+		"body2":"",
+		"body3":"",
+		"body4":"",
+		"body5":"",
+		"body6":"",
+		"body7":""	
+ 
 	}
-]	
+
+	{
+		"title":"Je pense que je suis infecté. Qu'est ce que je devrais faire maintenant ?",
+		"body1":"1)Informez l'institution ou l'agence de santé dans votre pays par un numéro d'urgence ou vous serz informés au détail",
+		"body2":"2)S'auto-isoler à la maison a été recommandé pour les personnes diagnostiquées avec COVID-19 et celles qui soupçonnent qu'elles été infectées",
+		"body3":"3)Je prends ma température 2 fois par jour ,  En cas de fièvre ou de maux de tête, Je peux prendre du paracétamol : (1 gramme, 3 fois par jour maximum (3 grammes par jour au total). et Je ne dois pas prendre d’ibuprofène, ni un autre anti-inflammatoire.",
+		"body4":"4)Si je prends un traitement pour une autre maladie, je le continue. En cas de doute sur un médicament, j’appelle mon médecin.",
+		"body5":"5)J’identifie les cas-contacts et je les informe",
+		"body6":"6)Je porte un masque chirurgical en présence d’une personne dans une même pièce.",
+		"body7":"7)Si j’ai des difficultés à respirer,j’appelle immédiatement les urgences"
+	}
+
+
+ ]
+	
 
